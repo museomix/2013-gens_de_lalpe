@@ -1,2 +1,2 @@
-2013-gens_de_lalpe
+Museomix 2013 : prototype "Gens de l'Alpe"
 ==================
